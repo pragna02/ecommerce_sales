@@ -53,4 +53,3 @@ You can replace this with your own e-commerce dataset, but you may need to adjus
 
 * This project was inspired by the "E-commerce Sales Analysis in R" article on GeeksforGeeks.
 * Thanks to the creators of the R packages used in this project.
-````
